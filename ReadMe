@@ -1,0 +1,20 @@
+    Banco de Dados para E-commerce
+
+Descrição:
+
+    Este projeto consiste na criação de um banco de dados relacional para um sistema de e-commerce, abrangendo a modelagem lógica, a implementação do esquema físico em SQL e a elaboração de consultas complexas para análise de dados.
+    O objetivo principal é aplicar os conceitos de modelagem de dados (EER e relacional), SQL (DDL e DML) e integridade de dados em um cenário prático e relevante.
+
+Funcionalidades:
+
+    Modelagem lógica do banco de dados, incluindo entidades, atributos, relacionamentos, chaves primárias e estrangeiras.
+    Implementação do esquema físico em SQL, com a criação das tabelas e a definição das constraints.
+    Persistência de dados de teste para simular um cenário real de e-commerce.
+    Elaboração de consultas SQL complexas para análise de dados, abrangendo:
+        Recuperações simples (SELECT).
+        Filtros (WHERE).
+        Atributos derivados.
+        Ordenação (ORDER BY).
+        Filtros em grupos (HAVING).
+        Junções (JOIN).
+    Implementação de regras de negócio, como a distinção entre cliente PJ e PF e o controle de status de entrega.
